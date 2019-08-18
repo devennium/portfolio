@@ -1,0 +1,65 @@
+{
+    "portfolio":{
+        "project": [
+            {
+                "id": "001",
+                "project_name": "Random Quote Generator",
+                "description": "Client side random quote generator",
+                "technologies": ["HTML", "JavaScript", "CSS"],
+                "live_link": "https://devennium.github.io/random-quote-generator/index.html",
+                "github_link": "https://github.com/devennium/random-quote-generator",
+                "images_urls": ["/static/images/rndm-quote/random-quote-01.png", "/static/images/rndm-quote/random-quote-02.png", "/static/images/rndm-quote/random-quote-03.png"]
+            },
+            {
+            "id": "002",
+            "project_name": "List Pagination and Filtering",
+            "description": "Client side list pagination and filtering",
+            "technologies": ["HTML", "JavaScript", "CSS"],
+            "live_link": "https://devennium.github.io/pagination",
+            "github_link": "https://github.com/devennium/pagination",
+            "images_urls": ["/static/images/pagination/pag-01.png", "/static/images/pagination/pag-02.png", "/static/images/pagination/pag-03.png"]
+            },
+            {
+            "id": "003",
+            "project_name": "Interactive form",
+            "description": "Client side interactive form",
+            "technologies": ["HTML", "JavaScript", "CSS", "JQuery"],
+            "live_link": "https://devennium.github.io/interactive-form",
+            "github_link": "https://github.com/devennium/interactive-form",
+            "images_urls": ["/static/images/interactive-form/form-01.png", "/static/images/interactive-form/form-02.png", "/static/images/interactive-form/form-03.png"]
+            },
+            {
+            "id": "004",
+            "project_name": "Game Show App",
+            "description": "Browser based word guessing game",
+            "technologies": ["HTML", "JavaScript", "CSS"],
+            "live_link": "https://devennium.github.io/Game-Show-App",
+            "github_link": "https://github.com/devennium/Game-Show-App",
+            "images_urls": ["/static/images/game-show-app/game-01.png", "/static/images/game-show-app/game-02.png", "/static/images/game-show-app/game-03.png"]
+            },
+            {
+            "id": "005",
+            "project_name": "Employee Directory",
+            "description": "Public API request",
+            "technologies": ["HTML", "JavaScript", "CSS"],
+            "live_link": "https://devennium.github.io/public_api_request-v1",
+            "github_link": "https://github.com/devennium/public_api_request-v1",
+            "images_urls": ["/static/images/public-api/directory-01.png", "/static/images/public-api/directory-02.png", "/static/images/public-api/directory-03.png"]
+            }
+        ],
+        "about":{
+            "summary": [
+                "I'm a self-taught developer since 2014 with a 10 year background as a systems administrator. ",
+                "I have a passion to learn new things, tinker, and solve problems. ",
+                "Currently completing a Team Tree House techdegree as a full stack developer."
+            ],
+            "contact_info":{
+                "phonenumber": "916-287-1336",
+                "email_address": "chris_bounds@live.com"
+            },
+            "skills":["HTML", "CSS", "JavaScript", "JQuery", "Node.JS", "Express"],
+            "linkedin": "https://linkedin.com/in/chris-bounds-1968b878",
+            "github": "https://github.com/devennium"
+        }
+    }
+}

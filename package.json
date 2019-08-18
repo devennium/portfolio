@@ -1,0 +1,25 @@
+{
+  "name": "static_node_n_express",
+  "version": "1.0.0",
+  "description": "TeamTreeHouse Project for static node and express site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/devennium/static_node_and_express_site_v1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "static",
+    "website"
+  ],
+  "author": "Chris Bounds",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
